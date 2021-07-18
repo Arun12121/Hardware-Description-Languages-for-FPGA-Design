@@ -1,0 +1,186 @@
+# Loading project AAC2M3P1
+# Compile of AAC2M3P1.v failed with 2 errors.
+# Compile of AAC2M3P1_tb.vp was successful.
+# Compile of AAC2M3P1_tb.vp was successful.
+# Compile of AAC2M3P1.v failed with 2 errors.
+# Compile of AAC2M3P1.v failed with 1 errors.
+# Compile of AAC2M3P1.v failed with 1 errors.
+# Compile of AAC2M3P1.v failed with 1 errors.
+# Compile of AAC2M3P1.v failed with 1 errors.
+# Compile of AAC2M3P1.v was successful.
+vsim work.AAC2M3P1_tb
+# vsim work.AAC2M3P1_tb 
+# Start time: 20:26:55 on Jun 26,2021
+# Loading work.AAC2M3P1_tb
+# Loading work.Comparator2
+add wave -position end  sim:/AAC2M3P1_tb/delay
+add wave -position end  sim:/AAC2M3P1_tb/a_tb
+add wave -position end  sim:/AAC2M3P1_tb/b_tb
+add wave -position end  sim:/AAC2M3P1_tb/y_tb
+add wave -position end  sim:/AAC2M3P1_tb/i
+add wave -position end  sim:/AAC2M3P1_tb/j
+add wave -position end  sim:/AAC2M3P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P1_tb/score
+add wave -position end  sim:/AAC2M3P1_tb/FirstError
+add wave -position end  sim:/AAC2M3P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P1_tb/testresults
+add wave -position end  sim:/AAC2M3P1_tb/vector
+add wave -position end  sim:/AAC2M3P1_tb/address
+add wave -position end  sim:/AAC2M3P1_tb/data
+add wave -position end  sim:/AAC2M3P1_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M3P1/AAC2M3P1_tb.vp(113)
+#    Time: 170 ns  Iteration: 0  Instance: /AAC2M3P1_tb
+# Break in Module AAC2M3P1_tb in file /home/arun/Course Work/HDL/AAC2M3P1/AAC2M3P1_tb.vp
+quit -sim
+# End time: 20:29:03 on Jun 26,2021, Elapsed time: 0:02:08
+# Errors: 0, Warnings: 13
+# reading /home/arun/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project AAC2M3P3
+# Compile of AAC2M3P3.v failed with 1 errors.
+# Compile of AAC2M3P3_tb.vp was successful.
+# Compile of AAC2M3P3.v failed with 1 errors.
+# Compile of AAC2M3P3.v failed with 4 errors.
+# Compile of AAC2M3P3.v failed with 4 errors.
+# Compile of AAC2M3P3.v failed with 2 errors.
+# Compile of AAC2M3P3.v failed with 2 errors.
+# Compile of AAC2M3P3.v failed with 2 errors.
+# Compile of AAC2M3P3.v failed with 1 errors.
+# Compile of AAC2M3P3.v failed with 1 errors.
+# Compile of AAC2M3P3.v failed with 2 errors.
+# Compile of AAC2M3P3.v was successful.
+vsim work.AAC2M3P1_tb
+# vsim work.AAC2M3P1_tb 
+# Start time: 20:39:22 on Jun 26,2021
+# Loading work.AAC2M3P1_tb
+# Loading work.find_errors
+add wave -position end  sim:/AAC2M3P1_tb/delay
+add wave -position end  sim:/AAC2M3P1_tb/a_tb
+add wave -position end  sim:/AAC2M3P1_tb/c_tb
+add wave -position end  sim:/AAC2M3P1_tb/b_tb
+add wave -position end  sim:/AAC2M3P1_tb/i
+add wave -position end  sim:/AAC2M3P1_tb/j
+add wave -position end  sim:/AAC2M3P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P1_tb/score
+add wave -position end  sim:/AAC2M3P1_tb/FirstError
+add wave -position end  sim:/AAC2M3P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P1_tb/testresults
+add wave -position end  sim:/AAC2M3P1_tb/vector
+add wave -position end  sim:/AAC2M3P1_tb/address
+add wave -position end  sim:/AAC2M3P1_tb/data
+add wave -position end  sim:/AAC2M3P1_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M3P3/AAC2M3P3_tb.vp(115)
+#    Time: 10250 ns  Iteration: 0  Instance: /AAC2M3P1_tb
+# Break in Module AAC2M3P1_tb in file /home/arun/Course Work/HDL/AAC2M3P3/AAC2M3P3_tb.vp
+quit -sim
+# End time: 20:40:28 on Jun 26,2021, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 16
+# reading /home/arun/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project AAC2M3P4
+# Compile of AAC2M3P4_tb.vp was successful.
+# Compile of AAC2M3P4.v was successful.
+vsim work.AAC2M3P4_tb
+# vsim work.AAC2M3P4_tb 
+# Start time: 00:32:49 on Jun 27,2021
+# Loading work.AAC2M3P4_tb
+# Loading work.Majority
+add wave -position end  sim:/AAC2M3P4_tb/delay
+add wave -position end  sim:/AAC2M3P4_tb/a_tb
+add wave -position end  sim:/AAC2M3P4_tb/b_tb
+add wave -position end  sim:/AAC2M3P4_tb/c_tb
+add wave -position end  sim:/AAC2M3P4_tb/y_tb
+add wave -position end  sim:/AAC2M3P4_tb/i
+add wave -position end  sim:/AAC2M3P4_tb/j
+add wave -position end  sim:/AAC2M3P4_tb/k
+add wave -position end  sim:/AAC2M3P4_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P4_tb/score
+add wave -position end  sim:/AAC2M3P4_tb/FirstError
+add wave -position end  sim:/AAC2M3P4_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P4_tb/testresults
+add wave -position end  sim:/AAC2M3P4_tb/vector
+add wave -position end  sim:/AAC2M3P4_tb/address
+add wave -position end  sim:/AAC2M3P4_tb/data
+add wave -position end  sim:/AAC2M3P4_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M3P4/AAC2M3P4_tb.vp(115)
+#    Time: 90 ns  Iteration: 0  Instance: /AAC2M3P4_tb
+# Break in Module AAC2M3P4_tb in file /home/arun/Course Work/HDL/AAC2M3P4/AAC2M3P4_tb.vp
+quit -sim
+# End time: 00:34:26 on Jun 27,2021, Elapsed time: 0:01:37
+# Errors: 0, Warnings: 6
+# Compile of AAC2M3P4.v was successful.
+vsim work.AAC2M3P4_tb
+# vsim work.AAC2M3P4_tb 
+# Start time: 00:34:38 on Jun 27,2021
+# Loading work.AAC2M3P4_tb
+# Loading work.Majority
+add wave -position end  sim:/AAC2M3P4_tb/delay
+add wave -position end  sim:/AAC2M3P4_tb/a_tb
+add wave -position end  sim:/AAC2M3P4_tb/b_tb
+add wave -position end  sim:/AAC2M3P4_tb/c_tb
+add wave -position end  sim:/AAC2M3P4_tb/y_tb
+add wave -position end  sim:/AAC2M3P4_tb/i
+add wave -position end  sim:/AAC2M3P4_tb/j
+add wave -position end  sim:/AAC2M3P4_tb/k
+add wave -position end  sim:/AAC2M3P4_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P4_tb/score
+add wave -position end  sim:/AAC2M3P4_tb/FirstError
+add wave -position end  sim:/AAC2M3P4_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P4_tb/testresults
+add wave -position end  sim:/AAC2M3P4_tb/vector
+add wave -position end  sim:/AAC2M3P4_tb/address
+add wave -position end  sim:/AAC2M3P4_tb/data
+add wave -position end  sim:/AAC2M3P4_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M3P4/AAC2M3P4_tb.vp(115)
+#    Time: 90 ns  Iteration: 0  Instance: /AAC2M3P4_tb
+# Break in Module AAC2M3P4_tb in file /home/arun/Course Work/HDL/AAC2M3P4/AAC2M3P4_tb.vp
+quit -sim
+# End time: 00:36:17 on Jun 27,2021, Elapsed time: 0:01:39
+# Errors: 0, Warnings: 2
+# reading /home/arun/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project AAC3M3H1
+# Compile of AAC2M3H1_tb.vp was successful.
+# Compile of AAC2M3H1.v failed with 3 errors.
+# Compile of AAC2M3H1.v failed with 2 errors.
+# Compile of AAC2M3H1.v failed with 2 errors.
+# Compile of AAC2M3H1.v failed with 1 errors.
+# Compile of AAC2M3H1.v failed with 2 errors.
+# Compile of AAC2M3H1.v was successful.
+vsim work.AAC2M3H1_tb
+# vsim work.AAC2M3H1_tb 
+# Start time: 00:42:07 on Jun 27,2021
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+add wave -position end  sim:/AAC2M3H1_tb/delay
+add wave -position end  sim:/AAC2M3H1_tb/a_tb
+add wave -position end  sim:/AAC2M3H1_tb/b_tb
+add wave -position end  sim:/AAC2M3H1_tb/c_tb
+add wave -position end  sim:/AAC2M3H1_tb/y_tb
+add wave -position end  sim:/AAC2M3H1_tb/Cout_tb
+add wave -position end  sim:/AAC2M3H1_tb/i
+add wave -position end  sim:/AAC2M3H1_tb/j
+add wave -position end  sim:/AAC2M3H1_tb/k
+add wave -position end  sim:/AAC2M3H1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3H1_tb/score
+add wave -position end  sim:/AAC2M3H1_tb/FirstError
+add wave -position end  sim:/AAC2M3H1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3H1_tb/testresults
+add wave -position end  sim:/AAC2M3H1_tb/vector
+add wave -position end  sim:/AAC2M3H1_tb/address
+add wave -position end  sim:/AAC2M3H1_tb/data
+add wave -position end  sim:/AAC2M3H1_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC3M3H1/AAC2M3H1_tb.vp(120)
+#    Time: 5130 ns  Iteration: 0  Instance: /AAC2M3H1_tb
+# Break in Module AAC2M3H1_tb in file /home/arun/Course Work/HDL/AAC3M3H1/AAC2M3H1_tb.vp
+quit -sim
+# End time: 01:03:59 on Jun 27,2021, Elapsed time: 0:21:52
+# Errors: 0, Warnings: 11
+# reading /home/arun/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini

@@ -1,0 +1,92 @@
+# Loading project AAC2M1P3
+# Compile of AAC2M1P3.vhd failed with 1 errors.
+# Compile of AAC2M1P3.vhd failed with 1 errors.
+# Compile of AAC2M1P3.vhd failed with 1 errors.
+# Compile of AAC2M1P3.vhd failed with 1 errors.
+# Compile of AAC2M1P3.vhd failed with 2 errors.
+# Compile of AAC2M1P3.vhd failed with 1 errors.
+# Compile of AAC2M1P3.vhd failed with 1 errors.
+# Compile of AAC2M1P3.vhd failed with 2 errors.
+# Compile of AAC2M1P3.vhd failed with 1 errors.
+# Compile of AAC2M1P3.vhd was successful with warnings.
+# Compile of AAC2M1P3_tb.vhdp was successful.
+vsim work.aac2m1p3_tb(behavioral)
+# vsim work.aac2m1p3_tb(behavioral) 
+# Start time: 14:21:34 on Jun 24,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.numeric_bit(body)
+# Loading ieee.numeric_bit_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1p3_tb(behavioral)
+# Loading work.find_errors(not_good)
+add wave -position end  sim:/aac2m1p3_tb/a_tb
+add wave -position end  sim:/aac2m1p3_tb/c_tb
+add wave -position end  sim:/aac2m1p3_tb/b_tb
+add wave -position end  sim:/aac2m1p3_tb/ValidCheck
+add wave -position end  sim:/aac2m1p3_tb/ROM
+add wave -position end  sim:/aac2m1p3_tb/delay
+add wave -position end  sim:/aac2m1p3_tb/Points
+run -all
+# ** Error: Error
+#    Time: 640 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 1280 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 1920 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 2560 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 3200 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 4480 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 5120 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 5760 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 6400 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 7040 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 7680 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 8320 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 8960 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 9600 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Error: Error
+#    Time: 10240 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# ** Note: This simulation is complete
+#    Time: 10260 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# Compile of AAC2M1P3.vhd was successful.
+vsim work.aac2m1p3_tb
+# End time: 14:26:06 on Jun 24,2021, Elapsed time: 0:04:32
+# Errors: 15, Warnings: 16
+# vsim work.aac2m1p3_tb 
+# Start time: 14:26:06 on Jun 24,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.numeric_bit(body)
+# Loading ieee.numeric_bit_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1p3_tb(behavioral)
+# Loading work.find_errors(not_good)
+add wave -position insertpoint  \
+sim:/aac2m1p3_tb/a_tb \
+sim:/aac2m1p3_tb/c_tb \
+sim:/aac2m1p3_tb/b_tb \
+sim:/aac2m1p3_tb/ValidCheck \
+sim:/aac2m1p3_tb/ROM \
+sim:/aac2m1p3_tb/delay \
+sim:/aac2m1p3_tb/Points
+run -all
+# ** Note: This simulation is complete
+#    Time: 10260 ns  Iteration: 0  Instance: /aac2m1p3_tb
+# End time: 14:27:11 on Jun 24,2021, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 1

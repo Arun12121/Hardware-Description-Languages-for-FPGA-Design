@@ -1,0 +1,229 @@
+# Loading project AAC2M1P4
+# Compile of AAC2M1P4.vhd was successful.
+# Compile of AAC2M1P4_tb.vhdp was successful.
+vsim work.aac2m1p4_tb
+# vsim work.aac2m1p4_tb 
+# Start time: 17:55:25 on Jun 24,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1p4_tb(behavioral)
+# Loading work.majority(behavioral)
+add wave -position end  sim:/aac2m1p4_tb/a_tb
+add wave -position end  sim:/aac2m1p4_tb/b_tb
+add wave -position end  sim:/aac2m1p4_tb/c_tb
+add wave -position end  sim:/aac2m1p4_tb/y_tb
+add wave -position end  sim:/aac2m1p4_tb/ValidCheck
+add wave -position end  sim:/aac2m1p4_tb/ROM
+add wave -position end  sim:/aac2m1p4_tb/delay
+add wave -position end  sim:/aac2m1p4_tb/Points
+run -all
+# ** Note: This simulation is complete
+#    Time: 100 ns  Iteration: 0  Instance: /aac2m1p4_tb
+quit -sim
+# End time: 17:58:18 on Jun 24,2021, Elapsed time: 0:02:53
+# Errors: 0, Warnings: 6
+# reading /home/arun/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project AAC2M1H1
+# Compile of AAC2M1H1.vhd failed with 9 errors.
+# Compile of AAC2M1H1.vhd failed with 2 errors.
+# Compile of AAC2M1H1_tb.vhdp was successful.
+# Compile of AAC2M1H1.vhd failed with 2 errors.
+# Compile of AAC2M1H1.vhd was successful.
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 18:05:28 on Jun 24,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.fulladd(behavioral)
+add wave -position end  sim:/aac2m1h1_tb/a_tb
+add wave -position end  sim:/aac2m1h1_tb/b_tb
+add wave -position end  sim:/aac2m1h1_tb/cin_tb
+add wave -position end  sim:/aac2m1h1_tb/sum_tb
+add wave -position end  sim:/aac2m1h1_tb/cout_tb
+add wave -position end  sim:/aac2m1h1_tb/carry_sum
+add wave -position end  sim:/aac2m1h1_tb/ValidCheck
+add wave -position end  sim:/aac2m1h1_tb/ROM
+add wave -position end  sim:/aac2m1h1_tb/delay
+add wave -position end  sim:/aac2m1h1_tb/Points
+run -all
+# ** Note: This simulation is complete
+#    Time: 100 ns  Iteration: 0  Instance: /aac2m1h1_tb
+quit -sim
+# End time: 18:07:48 on Jun 24,2021, Elapsed time: 0:02:20
+# Errors: 0, Warnings: 9
+# Compile of AAC2M1H1.vhd was successful.
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 18:08:00 on Jun 24,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.fulladd(behavioral)
+run -all
+# ** Note: This simulation is complete
+#    Time: 100 ns  Iteration: 0  Instance: /aac2m1h1_tb
+add wave -position end  sim:/aac2m1h1_tb/a_tb
+add wave -position end  sim:/aac2m1h1_tb/b_tb
+add wave -position end  sim:/aac2m1h1_tb/cin_tb
+add wave -position end  sim:/aac2m1h1_tb/sum_tb
+add wave -position end  sim:/aac2m1h1_tb/cout_tb
+run -all
+run -all
+run -all
+quit -sim
+# End time: 18:09:55 on Jun 24,2021, Elapsed time: 0:01:55
+# Errors: 0, Warnings: 2
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 18:10:02 on Jun 24,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.fulladd(behavioral)
+add wave -position end  sim:/aac2m1h1_tb/a_tb
+add wave -position end  sim:/aac2m1h1_tb/b_tb
+add wave -position end  sim:/aac2m1h1_tb/cin_tb
+add wave -position end  sim:/aac2m1h1_tb/sum_tb
+add wave -position end  sim:/aac2m1h1_tb/cout_tb
+run -all
+# ** Note: This simulation is complete
+#    Time: 100 ns  Iteration: 0  Instance: /aac2m1h1_tb
+quit -sim
+# End time: 18:10:52 on Jun 24,2021, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 1
+# reading /home/arun/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Break key hit
+# Loading project AAC2M1P1
+# Compile of AAC2M2P1.vhd was successful.
+# Compile of AAC2M2P1_tb.vhdp was successful.
+vsim work.aac2m2p1
+# vsim work.aac2m2p1 
+# Start time: 00:46:08 on Jun 25,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aac2m2p1(arch_aac2m2p1)
+run -all
+quit -sim
+# End time: 00:46:24 on Jun 25,2021, Elapsed time: 0:00:16
+# Errors: 0, Warnings: 6
+vsim work.aac2m2p1
+# vsim work.aac2m2p1 
+# Start time: 00:46:30 on Jun 25,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aac2m2p1(arch_aac2m2p1)
+add wave -position end  sim:/aac2m2p1/CP
+add wave -position end  sim:/aac2m2p1/SR
+add wave -position end  sim:/aac2m2p1/P
+add wave -position end  sim:/aac2m2p1/PE
+add wave -position end  sim:/aac2m2p1/CEP
+add wave -position end  sim:/aac2m2p1/CET
+add wave -position end  sim:/aac2m2p1/Q
+add wave -position end  sim:/aac2m2p1/TC
+add wave -position end  sim:/aac2m2p1/count
+run -all
+run -all
+run
+run
+run -all
+run -all
+run -all
+run -all
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 00:47:55 on Jun 25,2021, Elapsed time: 0:01:25
+# Errors: 0, Warnings: 1
+vsim work.aac2m2p1_tb
+# vsim work.aac2m2p1_tb 
+# Start time: 00:48:15 on Jun 25,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.numeric_bit(body)
+# Loading ieee.numeric_bit_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m2p1_tb(behavioral)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.aac2m2p1(arch_aac2m2p1)
+add wave -position end  sim:/aac2m2p1_tb/CP_tb
+add wave -position end  sim:/aac2m2p1_tb/SR_tb
+add wave -position end  sim:/aac2m2p1_tb/P_tb
+add wave -position end  sim:/aac2m2p1_tb/PE_tb
+add wave -position end  sim:/aac2m2p1_tb/CEP_tb
+add wave -position end  sim:/aac2m2p1_tb/CET_tb
+add wave -position end  sim:/aac2m2p1_tb/Q_tb
+add wave -position end  sim:/aac2m2p1_tb/TC_tb
+add wave -position end  sim:/aac2m2p1_tb/simend
+add wave -position end  sim:/aac2m2p1_tb/ValidCheck
+add wave -position end  sim:/aac2m2p1_tb/ROM
+add wave -position end  sim:/aac2m2p1_tb/delay
+add wave -position end  sim:/aac2m2p1_tb/Points
+run -all
+# ** Note: This simulation is complete
+#    Time: 525 ns  Iteration: 0  Instance: /aac2m2p1_tb
+quit -sim
+# End time: 00:48:32 on Jun 25,2021, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 1

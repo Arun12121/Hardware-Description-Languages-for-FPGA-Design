@@ -1,0 +1,27 @@
+# Loading project Add4
+# Compile of Add4.vhd failed with 1 errors.
+# Compile of Add4.vhd was successful.
+vsim work.add4
+# vsim work.add4 
+# Start time: 00:55:21 on Jun 24,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.add4(rtl)
+add wave -position end  sim:/add4/Data1
+add wave -position end  sim:/add4/Data2
+add wave -position end  sim:/add4/Cin
+add wave -position end  sim:/add4/Cout
+add wave -position end  sim:/add4/Sum
+add wave -position end  sim:/add4/Out5bit
+force -freeze sim:/add4/Data1 4'h2 0
+force -freeze sim:/add4/Data2 4'h3 0
+force -freeze sim:/add4/Cin 1 0
+run
+force -freeze sim:/add4/Data1 0000 0
+force -freeze sim:/add4/Data2 4'hf 0
+run
+# End time: 01:13:12 on Jun 24,2021, Elapsed time: 0:17:51
+# Errors: 0, Warnings: 6

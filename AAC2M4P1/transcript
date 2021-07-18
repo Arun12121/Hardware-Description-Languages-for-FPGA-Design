@@ -1,0 +1,331 @@
+# Loading project AAC2M4P1
+# Compile of AAC2M4P1_tb.vp was successful.
+# Compile of AAC2M4P1.v failed with 1 errors.
+# Compile of AAC2M4P1.v failed with 1 errors.
+# Compile of AAC2M4P1.v was successful.
+vsim work.AAC2M4P1_tb
+# vsim work.AAC2M4P1_tb 
+# Start time: 00:56:17 on Jun 28,2021
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Error at time       370
+# Error at time       390
+# Error at time       410
+# Error at time       430
+# Error at time       450
+# Error at time       470
+# Error at time       490
+# Error at time       510
+# Error at time       530
+# Error at time       550
+# Error at time       570
+# Error at time       590
+# Error at time       610
+# Error at time       630
+# Error at time       650
+# Score =           4
+# Error Count =          15
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp
+quit -sim
+# End time: 01:00:11 on Jun 28,2021, Elapsed time: 0:03:54
+# Errors: 0, Warnings: 8
+# Compile of AAC2M4P1.v was successful.
+vsim work.AAC2M4P1_tb
+# vsim work.AAC2M4P1_tb 
+# Start time: 01:00:23 on Jun 28,2021
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Score =          10
+# Error Count =           0
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp
+quit -sim
+# End time: 01:01:57 on Jun 28,2021, Elapsed time: 0:01:34
+# Errors: 0, Warnings: 2
+# Compile of AAC2M4P1.v was successful.
+vsim work.AAC2M4P1_tb
+# vsim work.AAC2M4P1_tb 
+# Start time: 01:02:07 on Jun 28,2021
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Error at time       370
+# Error at time       390
+# Error at time       410
+# Error at time       430
+# Error at time       450
+# Error at time       470
+# Error at time       490
+# Error at time       510
+# Error at time       530
+# Error at time       550
+# Error at time       570
+# Error at time       590
+# Error at time       610
+# Error at time       630
+# Error at time       650
+# Score =           4
+# Error Count =          15
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp
+quit -sim
+# End time: 01:03:21 on Jun 28,2021, Elapsed time: 0:01:14
+# Errors: 0, Warnings: 2
+# Compile of AAC2M4P1.v failed with 1 errors.
+# Compile of AAC2M4P1.v was successful.
+vsim work.AAC2M4P1_tb
+# vsim work.AAC2M4P1_tb 
+# Start time: 01:03:48 on Jun 28,2021
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Error at time       370
+# Error at time       390
+# Error at time       410
+# Error at time       430
+# Error at time       450
+# Error at time       470
+# Error at time       490
+# Error at time       510
+# Error at time       530
+# Error at time       550
+# Error at time       570
+# Error at time       590
+# Error at time       610
+# Error at time       630
+# Error at time       650
+# Score =           4
+# Error Count =          15
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp
+quit -sim
+# End time: 01:04:42 on Jun 28,2021, Elapsed time: 0:00:54
+# Errors: 0, Warnings: 3
+# Compile of AAC2M4P1.v was successful.
+vsim work.AAC2M4P1_tb
+# vsim work.AAC2M4P1_tb 
+# Start time: 01:05:05 on Jun 28,2021
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Score =          10
+# Error Count =           0
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp
+quit -sim
+# End time: 01:05:36 on Jun 28,2021, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 2
+# Compile of AAC2M4P1.v was successful.
+vsim work.AAC2M4P1_tb
+# vsim work.AAC2M4P1_tb 
+# Start time: 01:05:44 on Jun 28,2021
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Error at time       370
+# Error at time       390
+# Error at time       410
+# Error at time       430
+# Error at time       450
+# Error at time       470
+# Error at time       490
+# Error at time       510
+# Error at time       530
+# Error at time       550
+# Error at time       570
+# Error at time       590
+# Error at time       610
+# Error at time       630
+# Error at time       650
+# Score =           4
+# Error Count =          15
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp
+quit -sim
+# End time: 01:06:10 on Jun 28,2021, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 2
+# Compile of AAC2M4P1.v was successful.
+vsim work.AAC2M4P1_tb
+# vsim work.AAC2M4P1_tb 
+# Start time: 01:06:20 on Jun 28,2021
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Score =          10
+# Error Count =           0
+# This simulation is complete
+# ** Note: $stop    : /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file /home/arun/Course Work/HDL/AAC2M4P1/AAC2M4P1_tb.vp
+quit -sim
+# End time: 01:06:32 on Jun 28,2021, Elapsed time: 0:00:12
+# Errors: 0, Warnings: 2
